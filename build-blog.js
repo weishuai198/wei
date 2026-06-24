@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 const { marked } = require('marked')
-const OWNER = 'weishuai168';
+const OWNER = 'weishuai198';
 const REPO = 'blog';
 const GITHUB_TOKEN = process.env.GITHUB_TOKEN;
 const POST_DIR = 'posts';
